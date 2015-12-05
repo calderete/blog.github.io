@@ -49,7 +49,7 @@ Ok so my team can create words with a single request...great. Now they want to e
 
 Which will hit this method in my controller
 
-{% highlight ruby }
+{% highlight ruby %}
 
 def edit
 	params[words:].each do |new_word|
