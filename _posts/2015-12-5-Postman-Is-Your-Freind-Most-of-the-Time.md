@@ -43,11 +43,11 @@ Ok so my team can create words with a single request...great. Now they want to e
 {% highlight js %}
 {
  words: => [
-{id: => 1, new: => "kola"}, 
-{id: => 2, new: => "kangaroo"},
-{id: => 3, new: => "tiger"},
-{id: => 4, new: => "dragon"},
-{id: => 5, new: => "python"},
+            {id: => 1, new: => "kola"}, 
+            {id: => 2, new: => "kangaroo"},
+            {id: => 3, new: => "tiger"},
+            {id: => 4, new: => "dragon"},
+            {id: => 5, new: => "python"},
 ]}
 {% endhighlight js %}
 
@@ -56,10 +56,10 @@ Which will hit this method in my controller
 {% highlight ruby %}
 
 def edit
-params[words:].each do |new_word|
-word = Word.find(new_word[:id])
-word.update(word: new_word[:new])
-end
+  params[words:].each do |new_word|
+  word = Word.find(new_word[:id])
+  word.update(word: new_word[:new])
+  end
 end
 
 {% endhighlight ruby %}
