@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Friendly Postman
 ---
 
 ###Postman Rocks!
