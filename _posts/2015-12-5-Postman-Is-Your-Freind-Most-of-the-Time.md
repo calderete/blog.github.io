@@ -10,17 +10,17 @@ Sending data to our local server or our app is a pretty straight forward process
 
 {% highlight ruby %}
 def creates
-		@words = params[:words]
-		@words.map do |word|
-			begin
-				current_user.words.create!(word: word,
-					                         category: params[:category])
-			rescue ActiveRecord::SaveFailure
-				render json: { message: "Couldn't save supplied words." }, status: :unproccessable_entity
-			end
-    end
-    @words= current_user.words
-		render "word_create.json.jbuilder"
+	@words = params[:words]
+	@words.map do |word|
+		begin
+			current_user.words.create!(word: word,
+					                      category: params[:category])
+		rescue ActiveRecord::SaveFailure
+			render json: { message: "Couldn't save supplied words." }, status: :unproccessable_entity
+		end
+   end
+   @words= current_user.words
+	render "word_create.json.jbuilder"
 end
 {% endhighlight ruby %}
 
