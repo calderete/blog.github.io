@@ -24,7 +24,7 @@ This method is dealing with a bit of json that looks like this
 
 The method works just fine, but I held off deploying the change because I could not figure out how to test it locally. After much googling one of my classmates <a href="http://www.getlosthere.com">Teri</a> had run into a similar problem and showed me how to properly format the postman request, which looks like this
 
-<img src="/images/postman-scap.png" =250x/>
+<img src="/images/postman-scap.png =250x" />
 
 
 
