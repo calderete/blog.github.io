@@ -62,7 +62,7 @@ end
 
 And here is the way to properly format this
 
-<img src="/images/postman-scap.png" style="width: 600px;"/>
+<img src="/images/postman-2-scap.png" style="width: 800px;"/>
 
 
 
