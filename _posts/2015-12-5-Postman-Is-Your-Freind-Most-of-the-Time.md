@@ -10,20 +10,22 @@ Sending data to our local server, or our app is a pretty straight forward proces
 
 {% highlight ruby %}
 def creates
-	@words = params[:words]
-	@words.map do |word|
-		current_user.words.create!(word: word, category: params[:category])
-   end
+  @words = params[:words]
+  @words.map do |word|
+    current_user.words.create!(word: word, category: params[:category])
+  end
   @words= current_user.words
-	render "word_create.json.jbuilder"
+  render "word_create.json.jbuilder"
 end
 {% endhighlight ruby %}
 
 This method is dealing with a bit of json that looks like this
-```{
-		word: => [dog, cat, bird, chicken, honeybadger], 
-		category: => animals
-	 }```
+{% highlight js %}
+{
+  word: => [dog, cat, bird, chicken, honeybadger], 
+  category: => animals
+}
+{% endhighlight js %}
 
 The method works just fine, but I held off deploying the change because I could not figure out how to test it locally. Copying and pasting the horrendous errors postman was throwing out when I tried to pass a variable of an array with the key ```word:``` actually broke google. Fortunatly one of my classmates <a href="http://www.getlosthere.com">Teri</a> had run into a similar problem and showed me how to properly format the postman request, which looks like this.
 
@@ -57,8 +59,8 @@ Which will hit this method in my controller
 
 def edit
   params[words:].each do |new_word|
-  word = Word.find(new_word[:id])
-  word.update(word: new_word[:new])
+    word = Word.find(new_word[:id])
+    word.update(word: new_word[:new])
   end
 end
 
@@ -67,6 +69,8 @@ end
 And here is the way to properly format this
 
 <img src="/images/postman2-scap.png" style="width: 600px;"/>
+
+Again more brackets in the key side on postman. Also notice that it matters the order you list them in on postman. It has to go words[][id], words[][new], and so on.
 
 
 
