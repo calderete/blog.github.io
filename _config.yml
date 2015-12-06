@@ -2,6 +2,7 @@ title: Rails Generate
 name: Rails Generate
 url: http://calderete.github.io/
 description: A Coding Blog
+baseurl: http://calderete.github.io/
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
