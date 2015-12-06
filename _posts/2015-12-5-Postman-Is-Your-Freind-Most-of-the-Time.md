@@ -3,7 +3,7 @@ layout: post
 ---
 
 ###Postman Rocks!
-So in the past 3 or 4 weeks we have been building apps with teams of front end engineers, and my workflow goes like this. Come hell or high water GET registration and login working and deploy to heroku. The front end hackers can get plenty of things working <i>in theory</i> but very little meaningfull progress can be made until signup/login is working. Once the app is deployed we are not so dependant on eachother to start some meaningfull hacking. On the back end I can then begin to build out my controllers and test them using postman which does an awesome job of simulating requests from the front end (user interface). However.... in order to simulate arrays, or an array of hashes or whatever, there is a view formating things you need to know about using postman.
+So in the past 3 or 4 weeks we have been building apps with teams of front end engineers, and my workflow goes like this. Come hell or high water GET registration and login working and deploy to heroku. The front end hackers can get plenty of things working <i>in theory</i> but very little meaningfull progress can be made until signup/login is working. Once the app is deployed we are not so dependant on eachother to start some meaningfull hacking. On the back end I can then begin to build out my controllers and test them using postman which does an awesome job of simulating requests from the front end (user interface). However.... in order to simulate arrays, or an array of hashes or whatever, there is a few formating things you need to know about using postman.
 
 ###The Postkraken
 Sending data to our local server, or our app is a pretty straight forward process. Postman has a very easy to use gui to get most tasks done.But... what happens when you need to test a method like this
@@ -40,7 +40,7 @@ So yeah I got to strut around for like ten minutes...feeling like a computer nin
 
 ###The Next Postkraken
 
-Ok so my team can create words with a single request...great. Now they want to edit in a single request. In <i>theory</i> for me not so difficult to figure out...maybe. Long story short here is the javascript object (json) they would send me and the way to simulate such a reqeust in postman.
+Ok so my team can create words with a single request...great. Now they want to edit in a single request. In <i>theory</i> for me not so difficult to figure out...maybe. Long story short here is the javascript object (json) they would send me and the way to simulate such a request in postman.
 
 {% highlight js %}
 {
