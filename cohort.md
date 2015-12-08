@@ -6,4 +6,4 @@ layout: default
 Two now
 
 * <a href="http://www.getlosthere.com">Teri Chu</a>
-* <a href="http://my.studiopress.com/themes/sixteen-nine/">Joe Winter</a>
+* <a href="https://joe.ventures">Joe Winter</a>
