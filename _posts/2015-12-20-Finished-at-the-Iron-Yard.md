@@ -3,21 +3,23 @@ layout: post
 ---
 
 
-###Graduation
 
-####Reflections on TIY atlanta
 
-I got to meet tons of amazing and very very smart people here....not that there were not smart people in my life before...but once you walk through the glass doors at The Iron Yard....you can rest assured that the instructors and staff are very good at what they do.  And your peers...you fellow students are going to be amazing problem solvers. We had many guest lecturers that are at the top of their fields...we also had a very cool "field trip" to Sol-Tec that was awesome. To be sucessfull here you must have the attitude that you will never give up...that there is always a way. And most importantly you must know how to work with people....I learned quite a lot by helping others de bug their code or fix their crashed server....probably some of my biggest highs were when I was able to help a friend that in turn would help me out with some gem or configuration I wasn't used too. It's telling the kind of experience one will have here when... at the end of it we all  wish we could get jobs at the same place.
+###Reflections on TIY atlanta
 
-####Reflections on Becoming a Junior Developer
+I got to meet tons of amazing and very very smart people here....not that there were not smart people in my life before...but once you walk through the glass doors at The Iron Yard....you can rest assured that the instructors and staff are very good at what they do.  And your peers...you fellow students are going to be amazing problem solvers. We had many guest lecturers that are at the top of their fields...we also had a very cool "field trip" to Sol-Tec that was awesome. 
+
+To be sucessfull here you must have the attitude that you will never give up...that there is always a way. And most importantly you must know how to work with people....I learned quite a lot by helping others de bug their code or fix their crashed server....probably some of my biggest highs were when I was able to help a friend that in turn would help me out with some gem or configuration I wasn't used too. It's telling the kind of experience one will have here when... at the end of it we all  wish we could get jobs at the same place.
+
+###Reflections on Becoming a Junior Developer
 
 One of our guest lecturers asked us if we could remember what it was like not knowing what we know now. For myself that is a definite no. While it was only three months ago the world looks a bit different.  At the Iron Yard we spent countless hours of googling errors, reading documentation, and ploping our laptops in front of each other in an attempt to make sure we are not crazy and get some fresh eyes on our code. I'm not going say this was some spiritual awakening or anything, but doing those things day after day after day is bound to make you look at world differently, it will make you look at a problem and know there is a solution. 
 
-####Getting lost to Help People
+###Getting lost to Help People
 
 The imersive program at the Iron Yard first introduces you, and gets you comfortable with the "ecosystem" of programming. It's a vast, beautiful, and scary world, a world full of libraries, and gems, and open-source code....good and bad documentation...and of course programming languages. It's easy to get lost in all this and forget that this ecosytem exists to solve problems for people. It reminds me of my days as a music teacher when I would tell students that as soon as you decide that you are making music for a living, you give up your right to decide what good music is...the people that listen to your music will decide that. We could easily say the same thing about our code...that our code is good if it solves a problem for humans.
 
-####Reflections on What I've learned
+###Reflections on What I've learned
 
 This is definatly just the tip of the iceberg for the world of programming...remember I a most "junior" developer...but here is a run down on the high level skills the Iron Yard has managed to cram into our brains.
 
