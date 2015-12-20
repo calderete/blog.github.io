@@ -33,7 +33,7 @@ Here is some screen shots of my terminal with the "homebrew" theme (top), and my
 
 <img src="/images/terminal.png" style="width: 600px;"/>
 
-<img src="/images/sublime.png" style="width: 600px;"/>
+<img src="/images/Sublime.png" style="width: 600px;"/>
 
 Not all programming languages are complicated or hard to learn, but you need to know a few to be able to deploy an application. I'm listing these in a more our less hard to easy to learn top to bottom.
 
