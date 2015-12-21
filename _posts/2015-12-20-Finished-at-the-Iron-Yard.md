@@ -41,7 +41,7 @@ Not all programming languages are complicated or hard to learn, but you need to 
 * CSS
 * HTML
 * SQL
-* Markdown (which what I'm using to make this blog post)
+* Markdown (which what is I'm using to make this blog post)
 
 And here are some of the random technologies we have been introduced too
 
