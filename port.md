@@ -16,7 +16,7 @@ This was a hackathon project that was completed in 48 hours with 3 front end eng
 * Rails: This app was built using ruby on rails
 * Heroku: It is deployed on a heroku server
 * bcrypt: I used bcrypt to handle passwords
-* Sublime: I use sublime as my text editor
+
 
 Click the link below to use the app
 
