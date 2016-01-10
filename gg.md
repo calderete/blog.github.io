@@ -12,7 +12,7 @@ Carol, Mad Max, The Revenant, Room, Spotlight
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Actress in Drama
 Cate Blanchet, Brie Larson, Rooney Mara, Sao Irsi ronion, Alicia Vikander
@@ -20,7 +20,7 @@ Cate Blanchet, Brie Larson, Rooney Mara, Sao Irsi ronion, Alicia Vikander
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Actor in Drama
 Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
@@ -28,7 +28,7 @@ Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Motion Picture Musical or Comedy
 The big short, Joy, The Martian, Spy, Trian Wreck
@@ -36,7 +36,7 @@ The big short, Joy, The Martian, Spy, Trian Wreck
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Actress in Comedy
 Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
@@ -44,7 +44,7 @@ Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Actor in Comedy
 Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
@@ -52,7 +52,7 @@ Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Supporting Actress in any Role
 Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
@@ -60,7 +60,7 @@ Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Supporting Actor
 Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
@@ -68,7 +68,7 @@ Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Director
 Tod Haynes: Carrol, Allejandro Inarritu: The Revenant, Tom Mcarthy: Spotlight, George Miller: Mad Max, Ridley Scott: The Martian
@@ -76,7 +76,7 @@ Tod Haynes: Carrol, Allejandro Inarritu: The Revenant, Tom Mcarthy: Spotlight, G
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Screenplay
 Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and Adam Mcay: The Big Short, Arron Sorkin: Steve Jobs, Quinten Tarantino: The Hatefull Eight
@@ -84,7 +84,7 @@ Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Television Series Drama
 Empire, Game of Thrones, Mister Robot, Narcos, Outlander
@@ -92,7 +92,7 @@ Empire, Game of Thrones, Mister Robot, Narcos, Outlander
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Actress in Drama Television
 Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
@@ -100,7 +100,7 @@ Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Actor in TV Drama
 John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
@@ -108,7 +108,7 @@ John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Television Series Musical or Comedy
 Casual, Mozart in the Jungle, Orange is the new black, Silicon Valley, Tansparent, Veep
@@ -116,7 +116,7 @@ Casual, Mozart in the Jungle, Orange is the new black, Silicon Valley, Tansparen
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Actress in Musical or Comedy
 Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tomlin
@@ -124,7 +124,7 @@ Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tom
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Actor in Musical or Comedy
 Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
@@ -132,7 +132,7 @@ Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Supporting Actress
 Uzo Abuba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
@@ -140,7 +140,7 @@ Uzo Abuba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 ###Best Supporting Actor
 Allen Cumming, Damion Lewis, Ben Mendelsohn, Tobias Menzies, Christian Slater
@@ -148,7 +148,7 @@ Allen Cumming, Damion Lewis, Ben Mendelsohn, Tobias Menzies, Christian Slater
 * Christina
 * Cammie
 * Charlie
-* Winner
+* **Winner**
 
 
 
