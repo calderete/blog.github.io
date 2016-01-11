@@ -60,7 +60,7 @@ Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
 * Christina: Hellen Mirren
 * Cammie: Hellen Mirren
 * Charlie: Jennifer Jason Leigh
-* **Winner**
+* **Winner** Kate Winslet
 
 ###Best Supporting Actor
 Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
@@ -116,7 +116,7 @@ Casual, Mozart in the Jungle, Orange is the new black, Silicon Valley, Tansparen
 * Christina: Veep 
 * Cammie: Orange is the new black
 * Charlie: Silicon Valley
-* **Winner**
+* **Winner** Mozart in the Jungle
 
 ###Best Actress in Musical or Comedy
 Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tomlin
@@ -124,7 +124,7 @@ Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tom
 * Christina: JLD
 * Cammie: JLD
 * Charlie: Jamie Lee Curtis
-* **Winner**
+* **Winner** Rachel Bloom
 
 ###Best Actor in Musical or Comedy
 Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
@@ -140,7 +140,7 @@ Uzo Aduba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
 * Christina: Regina King
 * Cammie: Uzo Aduba
 * Charlie: Uzo Aduba
-* **Winner**
+* **Winner** Maura Tierney
 
 ###Best Supporting Actor
 Allen Cumming, Damion Lewis, Ben Mendelsohn, Tobias Menzies, Christian Slater
