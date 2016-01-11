@@ -12,7 +12,7 @@ Carol, Mad Max, The Revenant, Room, Spotlight
 * Christina: Room
 * Cammie: Mad Max
 * Charlie: Room
-* **Winner**
+* **Winner**: The Revenant
 
 ###Best Actress in Drama
 Cate Blanchet: Carrol, Brie Larson: Room, Rooney Mara: Carrol, Sao Irsi ronion: Brooklen, Alicia Vikander: Danish Girl
@@ -20,7 +20,7 @@ Cate Blanchet: Carrol, Brie Larson: Room, Rooney Mara: Carrol, Sao Irsi ronion: 
 * Christina: Brie Larson
 * Cammie: Rooney Mara
 * Charlie: Brie larson
-* **Winner**
+* **Winner** Brie larson
 
 ###Actor in Drama
 Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
@@ -28,7 +28,7 @@ Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
 * Christina: Eddie Redmayne
 * Cammie: Eddie Redmayne
 * Charlie: Brian Craston
-* **Winner**
+* **Winner**: Leonardo Decaprio
 
 ###Best Motion Picture Musical or Comedy
 The Big Short, Joy, The Martian, Spy, Trian Wreck
@@ -36,7 +36,7 @@ The Big Short, Joy, The Martian, Spy, Trian Wreck
 * Christina: The Martian
 * Cammie: Joy
 * Charlie: The Big Short
-* **Winner**
+* **Winner**: The Martian
 
 ###Actress in Comedy
 Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
@@ -44,7 +44,7 @@ Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
 * Christina: Jennifer Lawrence
 * Cammie: Jennifer Lawrence
 * Charlie: Amy Schumer
-* **Winner**
+* **Winner**: Jennifer Lawrence
 
 ###Actor in Comedy
 Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
@@ -52,7 +52,7 @@ Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
 * Christina: Christian Bale
 * Cammie: Mat Damon
 * Charlie: Steve Carrel
-* **Winner**
+* **Winner**: Mat Damon
 
 ###Supporting Actress in any Role
 Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
@@ -68,15 +68,15 @@ Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
 * Christina: Idris Elba
 * Cammie: Idris Elba
 * Charlie: Sylvester Stalone
-* **Winner**
+* **Winner**: Sylvester Stalone
 
 ###Best Director
 Tod Haynes: Carrol, Allejandro Inarritu: The Revenant, Tom Mcarthy: Spotlight, George Miller: Mad Max, Ridley Scott: The Martian
 
 * Christina: Allejandro
-* Cammie: George Miller
+* Cammie: George Miller 
 * Charlie: George Miller
-* **Winner**
+* **Winner**: Allejandro Inarritu
 
 ###Best Screenplay
 Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and Adam Mcay: The Big Short, Arron Sorkin: Steve Jobs, Quinten Tarantino: The Hatefull Eight
@@ -84,7 +84,7 @@ Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and
 * Christina: The Big Short
 * Cammie: Steve Jobs
 * Charlie: Emma Donoghue
-* **Winner**
+* **Winner**: Steve Jobs
 
 ###Best Television Series Drama
 Empire, Game of Thrones, Mister Robot, Narcos, Outlander
@@ -92,7 +92,7 @@ Empire, Game of Thrones, Mister Robot, Narcos, Outlander
 * Christina: Game of Thrones
 * Cammie: Empire
 * Charlie: Narcos
-* **Winner**
+* **Winner**: Mister Robot
 
 ###Best Actress in Drama Television
 Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
@@ -100,7 +100,7 @@ Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
 * Christina: Viola Davis
 * Cammie: Robin Wright
 * Charlie: Robin Wright
-* **Winner**
+* **Winner**: Taraji P Henson
 
 ###Best Actor in TV Drama
 John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
@@ -108,7 +108,7 @@ John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
 * Christina: John Ham
 * Cammie: John Ham
 * Charlie: Bob Odinkirk
-* **Winner**
+* **Winner**: John Ham
 
 ###Best Television Series Musical or Comedy
 Casual, Mozart in the Jungle, Orange is the new black, Silicon Valley, Tansparent, Veep
@@ -132,7 +132,7 @@ Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
 * Christina: Jeffory Tambor
 * Cammie: Gael Garcia Bernal
 * Charlie: Jeffery Tambor
-* **Winner**
+* **Winner**: Geal Garcia Bernal
 
 ###Best Supporting Actress
 Uzo Aduba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
@@ -148,7 +148,7 @@ Allen Cumming, Damion Lewis, Ben Mendelsohn, Tobias Menzies, Christian Slater
 * Christina: Allen Cumming
 * Cammie: Christian Slater
 * Charlie: Ben Mendelsohn
-* **Winner**
+* **Winner** Christian Slater
 
 
 
