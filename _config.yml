@@ -1,7 +1,7 @@
-title: Rails Generate
-name: Rails Generate
+title: The Wall
+name: The Wall
 url: http://calderete.github.io/
-description: A Coding Blog
+description: 
 baseurl: http://calderete.github.io/
 
 permalink: /:year/:month/:day/:title/
