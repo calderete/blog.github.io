@@ -51,8 +51,8 @@ And here are some of the random technologies we have been introduced too
 
 It's humbling to think of all the very smart people that created these tools. All these things can talk to each other to create stuff. One of the coolest feelings is when you're about to start a new project and you type into your terminal...
 
-    rails new [application name]
-
+<pre><code>rails new [application name1]
+</code></pre>
 and all sorts of files explode on to your screen
 
 <img src="/images/railsnew.png" style="height: 800px;"/>
