@@ -50,7 +50,9 @@ And here are some of the random technologies we have been introduced too
 * S3 (AWS storage for file uploads)
 
 It's humbling to think of all the very smart people that created these tools. All these things can talk to each other to create stuff. One of the coolest feelings is when you're about to start a new project and you type into your terminal...
-``` rails new [application name] ```
+```
+rails new [application name]
+```
 and all sorts of files explode on to your screen
 
 <img src="/images/railsnew.png" style="height: 800px;"/>
