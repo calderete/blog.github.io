@@ -4,9 +4,9 @@ layout: default
 
 **The Golden Globes are tonight and as is our tradition we are making our predictions. We are only making predictions on the categories we care about**
 
-##Nominations and Predictions
+## Nominations and Predictions
 
-###Best Motion Picture Drama
+### Best Motion Picture Drama
 Carol, Mad Max, The Revenant, Room, Spotlight
 
 * Christina: Room
@@ -14,7 +14,7 @@ Carol, Mad Max, The Revenant, Room, Spotlight
 * Charlie: Room
 * **Winner**: The Revenant
 
-###Best Actress in Drama
+### Best Actress in Drama
 Cate Blanchet: Carrol, Brie Larson: Room, Rooney Mara: Carrol, Sao Irsi ronion: Brooklen, Alicia Vikander: Danish Girl
 
 * Christina: Brie Larson
@@ -22,7 +22,7 @@ Cate Blanchet: Carrol, Brie Larson: Room, Rooney Mara: Carrol, Sao Irsi ronion: 
 * Charlie: Brie larson
 * **Winner** Brie larson
 
-###Actor in Drama
+### Actor in Drama
 Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
 
 * Christina: Eddie Redmayne
@@ -30,7 +30,7 @@ Brian Craston, Leonardo DeCaprio, Micheal Fastbender, Eddie Redmayne, Will Smith
 * Charlie: Brian Craston
 * **Winner**: Leonardo Decaprio
 
-###Best Motion Picture Musical or Comedy
+### Best Motion Picture Musical or Comedy
 The Big Short, Joy, The Martian, Spy, Trian Wreck
 
 * Christina: The Martian
@@ -38,7 +38,7 @@ The Big Short, Joy, The Martian, Spy, Trian Wreck
 * Charlie: The Big Short
 * **Winner**: The Martian
 
-###Actress in Comedy
+### Actress in Comedy
 Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
 
 * Christina: Jennifer Lawrence
@@ -46,7 +46,7 @@ Jennifer Lawrence, Melissa Mcarthy, Amy Schumer, Maggie Smith, Lily Tomlin
 * Charlie: Amy Schumer
 * **Winner**: Jennifer Lawrence
 
-###Actor in Comedy
+### Actor in Comedy
 Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
 
 * Christina: Christian Bale
@@ -54,7 +54,7 @@ Christian Bale, Steve Carrel, Mat Damon, Al Pachino, Mark Ruffalo
 * Charlie: Steve Carrel
 * **Winner**: Mat Damon
 
-###Supporting Actress in any Role
+### Supporting Actress in any Role
 Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
 
 * Christina: Hellen Mirren
@@ -62,7 +62,7 @@ Jane Fonda, Jennifer Jason Leigh, Hellen Mirren, Alicia Vikander, Kate Winslet
 * Charlie: Jennifer Jason Leigh
 * **Winner** Kate Winslet
 
-###Best Supporting Actor
+### Best Supporting Actor
 Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
 
 * Christina: Idris Elba
@@ -70,15 +70,15 @@ Paul Dano, Idris Elba, Mark Rylance, Michael Shannon, Sylvester Stalone
 * Charlie: Sylvester Stalone
 * **Winner**: Sylvester Stalone
 
-###Best Director
+### Best Director
 Tod Haynes: Carrol, Allejandro Inarritu: The Revenant, Tom Mcarthy: Spotlight, George Miller: Mad Max, Ridley Scott: The Martian
 
 * Christina: Allejandro
-* Cammie: George Miller 
+* Cammie: George Miller
 * Charlie: George Miller
 * **Winner**: Allejandro Inarritu
 
-###Best Screenplay
+### Best Screenplay
 Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and Adam Mcay: The Big Short, Arron Sorkin: Steve Jobs, Quinten Tarantino: The Hatefull Eight
 
 * Christina: The Big Short
@@ -86,7 +86,7 @@ Emma Donoghue: Room, Tom Mcarthy and John Singer: Spotlight, Charles Randolf and
 * Charlie: Emma Donoghue
 * **Winner**: Steve Jobs
 
-###Best Television Series Drama
+### Best Television Series Drama
 Empire, Game of Thrones, Mister Robot, Narcos, Outlander
 
 * Christina: Game of Thrones
@@ -94,7 +94,7 @@ Empire, Game of Thrones, Mister Robot, Narcos, Outlander
 * Charlie: Narcos
 * **Winner**: Mister Robot
 
-###Best Actress in Drama Television
+### Best Actress in Drama Television
 Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
 
 * Christina: Viola Davis
@@ -102,7 +102,7 @@ Caitriona, Viola Davis, Eva Green, Taraji P Henson, Robin Wright
 * Charlie: Robin Wright
 * **Winner**: Taraji P Henson
 
-###Best Actor in TV Drama
+### Best Actor in TV Drama
 John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
 
 * Christina: John Ham
@@ -110,15 +110,15 @@ John Ham, Rami Malek, Wagner Moura, Bob Odinkirk, Liev Schreiber
 * Charlie: Bob Odinkirk
 * **Winner**: John Ham
 
-###Best Television Series Musical or Comedy
+### Best Television Series Musical or Comedy
 Casual, Mozart in the Jungle, Orange is the new black, Silicon Valley, Tansparent, Veep
 
-* Christina: Veep 
+* Christina: Veep
 * Cammie: Orange is the new black
 * Charlie: Silicon Valley
 * **Winner** Mozart in the Jungle
 
-###Best Actress in Musical or Comedy
+### Best Actress in Musical or Comedy
 Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tomlin
 
 * Christina: JLD
@@ -126,7 +126,7 @@ Rachel Bloom, Jamie Lee Curtis, Julia Louise Dreyfuss, Jina Rodriguez, Lilly Tom
 * Charlie: Jamie Lee Curtis
 * **Winner** Rachel Bloom
 
-###Best Actor in Musical or Comedy
+### Best Actor in Musical or Comedy
 Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
 
 * Christina: Jeffory Tambor
@@ -134,7 +134,7 @@ Aziz Ansari, Gael Garcia Bernal, Rob Lowe, Patrick Stewart, Jeffery Tambor
 * Charlie: Jeffery Tambor
 * **Winner**: Geal Garcia Bernal
 
-###Best Supporting Actress
+### Best Supporting Actress
 Uzo Aduba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
 
 * Christina: Regina King
@@ -142,27 +142,10 @@ Uzo Aduba, Joanne Froggatt, Regina King, Judas Light, Maura Tierney
 * Charlie: Uzo Aduba
 * **Winner** Maura Tierney
 
-###Best Supporting Actor
+### Best Supporting Actor
 Allen Cumming, Damion Lewis, Ben Mendelsohn, Tobias Menzies, Christian Slater
 
 * Christina: Allen Cumming
 * Cammie: Christian Slater
 * Charlie: Ben Mendelsohn
 * **Winner** Christian Slater
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

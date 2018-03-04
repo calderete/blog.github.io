@@ -1,11 +1,12 @@
 title: The Wall
 name: The Wall
 url: http://calderete.github.io/
-description: 
-baseurl: http://calderete.github.io/
+description: The Wall
+baseurl: /
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: pygments
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
