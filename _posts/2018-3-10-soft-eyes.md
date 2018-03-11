@@ -43,7 +43,7 @@ My goal would be to interact with the environment knowing something has been _ad
 
 If you read that and think that's a pretty naive way for quality assurance to go about observing something, you are right, we are approaching the addition of this feature with "Soft" eyes.
 
-In approaching the forest assuming that nothing has changed allows to have a clean slate...which is good because the list of observed changes will grow fast!
+In approaching the forest assuming that nothing has changed allows us to have a clean slate...which is good because the list of observed changes will grow fast!
 
 ### Down from the clouds
 I believe its good to start from a simple place, as it helps me to ask the questions that matter.
