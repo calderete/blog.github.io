@@ -5,6 +5,7 @@ layout: post
 
 
 
+# Post From December 2015
 ### Reflections on TIY ATL
 
 I got to meet tons of amazing and very very smart people here....not that there were not smart people in my life before...but once you walk through the glass doors at The Iron Yard....you can rest assured that the instructors and staff are very good at what they do.  And your peers...your fellow students are going to be amazing problem solvers. We had many guest lecturers that are at the top of their fields.
