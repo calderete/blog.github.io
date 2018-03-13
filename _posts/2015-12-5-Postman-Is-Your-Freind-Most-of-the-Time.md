@@ -2,10 +2,10 @@
 layout: post
 ---
 
-###Postman Rocks!
-So in the past 3 or 4 weeks we have been building apps with teams of front end engineers, and my workflow goes like this. Come hell or high water GET registration and login working and deploy to heroku. The front end hackers can get plenty of things working <i>in theory</i> but very little meaningfull progress can be made until signup/login is working. Once the app is deployed we are not so dependant on eachother to start some meaningfull hacking. On the back end I can then begin to build out my controllers and test them using postman which does an awesome job of simulating requests from the front end (user interface). However.... in order to simulate arrays, or an array of hashes or whatever, there is a few formating things you need to know about using postman.
+### Postman Rocks!
+So in the past 3 or 4 weeks we have been building apps with teams of front end engineers, and my workflow goes like this. Come hell or high water GET registration and login working and deploy to heroku. The front end hackers can get plenty of things working <i>in theory</i> but very little meaningful progress can be made until signup/login is working. Once the app is deployed we are not so dependent on each-other to start some meaningful hacking. On the back end I can then begin to build out my controllers and test them using postman which does an awesome job of simulating requests from the front end (user interface). However.... in order to simulate arrays, or an array of hashes or whatever, there is a few formatting things you need to know about using postman.
 
-###The Postkraken
+### The Postkraken
 Sending data to our local server, or our app is a pretty straight forward process. Postman has a very easy to use gui to get most tasks done.But... what happens when you need to test a method like this
 
 {% highlight ruby %}
@@ -22,7 +22,7 @@ end
 This method is dealing with a bit of json that looks like this
 {% highlight js %}
 {
-  word: => [dog, cat, bird, chicken, honeybadger], 
+  word: => [dog, cat, bird, chicken, honeybadger],
   category: => animals
 }
 {% endhighlight js %}
@@ -34,18 +34,18 @@ The method works just fine, but I held off deploying the change because I could 
 Notice the brackets after ```word:```? This tells postman to insert the value into an array, and will perfectly simulate the json from above.
 
 
-###Victory!!!
+### Victory!!!
 
-So yeah I got to strut around for like ten minutes...feeling like a computer ninja! Front end can add as many words into a category as they want with a single reqeust and my code will take care of the rest.
+So yeah I got to strut around for like ten minutes...feeling like a computer ninja! Front end can add as many words into a category as they want with a single request and my code will take care of the rest.
 
-###The Next Postkraken
+### The Next Postkraken
 
 Ok so my team can create words with a single request...great. Now they want to edit in a single request. In <i>theory</i> for me not so difficult to figure out...maybe. Long story short here is the javascript object (json) they would send me and the way to simulate such a request in postman.
 
 {% highlight js %}
 {
  words: => [
-            {id: => 1, new: => "kola"}, 
+            {id: => 1, new: => "kola"},
             {id: => 2, new: => "kangaroo"},
             {id: => 3, new: => "tiger"},
             {id: => 4, new: => "dragon"},
@@ -71,28 +71,3 @@ And here is the way to properly format this
 <img src="/images/postman2-scap.png" style="width: 600px;"/>
 
 Again more brackets in the key side on postman. Also notice that it matters the order you list them in on postman. It has to go words[][id], words[][new], and so on.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
